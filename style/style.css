@@ -1,0 +1,65 @@
+/* banner related style  */
+/* .banner .happy-new-year,.new-year-Celebration{
+padding: 177px 350px;
+} */
+
+
+.banner{
+  padding: 177px 350px;
+  text-align: center;
+  background-color: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+  background-image: url('../resources/banner.png'); 
+width: 1320px;
+height: 600px;
+border-radius: 16px;
+margin: 50px 150px;
+background-repeat: no-repeat;
+}
+.banner .happy-new-year{
+color: #fbf3f3;
+/* text-align: center; */
+font-size: 32px;
+font-weight: 400;
+max-width: 500px;
+
+
+}
+.new-year-Celebration{
+  margin-top: 0px;
+  color: #fbf5f5;
+  font-family: Merriweather;
+text-align: center;
+font-size: 72px;
+font-weight: 900;
+max-width: 500px;
+}
+
+/* main related style  */
+section .text{
+ text-align: center;
+}
+.text h3{
+color: rgb(253, 9, 9);
+font-family: Inter;
+font-size: 88px;
+font-weight: 700;
+margin-bottom: 0px;
+}
+.text p{
+color: rgb(252, 7, 7);
+text-align: center;
+font-size: 24px;
+font-weight: 500;
+margin-bottom: 0px;
+}
+.text h4{
+color: #070211;
+text-align: center;
+font-size: 48px;
+font-weight: 700;
+margin-top: 20px;
+}
+.main-one img{
+  margin: 48px 400px 120px 400px;
+}
+
