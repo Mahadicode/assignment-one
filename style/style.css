@@ -12,7 +12,7 @@ padding: 177px 350px;
 width: 1320px;
 height: 600px;
 border-radius: 16px;
-margin: 50px 150px;
+margin: 50px 20px 150px 150px;
 background-repeat: no-repeat;
 }
 .banner .happy-new-year{
@@ -35,6 +35,7 @@ max-width: 500px;
 }
 
 /* main related style  */
+
 section .text{
  text-align: center;
 }
@@ -43,6 +44,7 @@ color: rgb(253, 9, 9);
 font-family: Inter;
 font-size: 88px;
 font-weight: 700;
+ margin-top: 0px;
 margin-bottom: 0px;
 }
 .text p{
@@ -63,3 +65,46 @@ margin-top: 20px;
   margin: 48px 400px 120px 400px;
 }
 
+/* main two section related style 
+*/
+.main-two{
+  display: flex;
+  width: 100%;
+  background-image: url('../resources/Vectorrr.png');
+  background-repeat: no-repeat;
+  margin: 120px 140px;
+}
+.main-two div{
+  padding: 120px 120px;
+  width: 50%;
+  max-width: 700px;
+}
+.main-two h1{
+  color: #fbf9f9;
+font-size: 64px;
+font-weight: 900;
+line-height: 88px; 
+letter-spacing: 7.04px;
+}
+.main-two p{
+color: rgba(255, 255, 255, 0.8);
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; 
+}
+.main-two img{
+display: flex;
+width: 319.83px;
+height: 464.662px;
+align-items: center;
+padding: 70px 140px 70px 40px;
+}
+.main-two button{
+  background-color: rgb(23, 23, 22);
+text-align: center;
+color: #fbf3f3;
+font-size: 20px;
+font-weight: 700;
+text-transform: uppercase;
+}
