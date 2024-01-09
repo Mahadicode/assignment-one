@@ -62,7 +62,7 @@ font-weight: 700;
 margin-top: 20px;
 }
 .main-one img{
-  margin: 48px 400px 120px 400px;
+  margin: 48px 250px 120px 250px;
 }
 
 /* main two section related style 
@@ -188,4 +188,86 @@ line-height: 32px;
   width: 140px;
 height: 140px;
 }
+/* section five related style  */
+.five-one{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.five-one h5{
+  color: #070211;
+font-size: 24px;
+font-weight: 500;
+text-align: center;
+margin-bottom: 0px;
+}
+ .five-one span{
+  color: rgb(252, 3, 3);
+}
+.five-one h1{
+  margin-top: 0px;
+  color: #070211;
+  text-align: center;
+font-size: 72px;
+font-weight: 900;
+margin-bottom: 20px;
+}
+.five-one p{
+  text-align: center;
+color: rgba(4, 1, 11, 0.6);
+font-size: 20px;
+font-weight: 500;
+max-width: 800px;
+margin: 0 270px;
+}
 
+/* main section five photo related style  */
+
+/* .five-two{
+  display: flex;
+  gap: 500px;
+  background-image: url('../resources/rectangle.png');
+ width: 1320px;
+height: 229px;
+border-radius: 16px 0px 16px 16px;
+background: #F00;
+background-position: bottom;
+
+} */
+/* section six related style  */
+ section{
+margin-left: 140px;
+margin-right: 140px;
+}
+.six-one h5{
+color: rgb(247, 8, 8);
+font-size: 24px;
+font-weight: 500;
+margin-bottom: 0px;
+}
+.six-one h1{
+  margin-top: 0px;
+  color: #070211;
+font-size: 48px;
+font-weight: 900;
+margin-bottom: 10px;
+}
+.six-one p{
+  color: rgba(7, 2, 17, 0.60);
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+max-width: 900px;
+margin-top: 0px;
+}
+div .six-image{
+  display: flex;
+  flex: 30%;
+justify-content: space-around;
+flex-wrap: wrap;
+}
+.six-image img{
+  width: 350px;
+height: 300px;
+border-radius: 16px;
+}
